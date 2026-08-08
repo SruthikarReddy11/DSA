@@ -24,7 +24,7 @@ public class Binary{
       else{
         right = mid - 1;
       }
-      return -1;
     }
+    return -1;
   }
 }
