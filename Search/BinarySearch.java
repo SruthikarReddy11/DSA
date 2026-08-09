@@ -1,3 +1,6 @@
+// Time Complexity of Linear Search : O(1)
+
+
 public class Binary{
   public static void main(String args[]){
     int a[] = {5,7,9,11,13};
