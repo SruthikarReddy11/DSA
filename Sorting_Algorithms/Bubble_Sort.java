@@ -1,3 +1,6 @@
+//Time Complexity for Bubble Sort is : O(n^2).
+
+
 public class Binary{
   public static void main(String args[]){
    int a[] = {8,6,9,2,4,5};
