@@ -1,3 +1,6 @@
+//Time complexity of Linear Search is : O(1).
+
+
 public class Search{
     public static void main(String args[]){
         int a[] = {5,7,9,11,13};
