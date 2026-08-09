@@ -1,4 +1,4 @@
-// Time Complexity of Linear Search : O(1)
+// Time Complexity of Binary Search : O(log n)
 
 
 public class Binary{
